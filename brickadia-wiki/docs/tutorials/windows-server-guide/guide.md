@@ -1,5 +1,5 @@
 # Windows Dedicated Server Guide
-So you want to use a linux server but dont know where to start? This guide is for you.
+So you want to use a Windows server but dont know where to start? This guide is for you.
 
 ## Prereqs (Steam Early Access Edition)
 You will need:
